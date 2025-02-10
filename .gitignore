@@ -118,6 +118,9 @@ jspm_packages/
 # Turborepo task cache
 .turbo
 
+# Vercel
+.vercel
+
 ### NX workspace ###
 # Nx workspace task cache
 .nx/cache
@@ -176,6 +179,7 @@ out
 # Nuxt.js build / generate output
 .nuxt
 dist
+build
 
 # Gatsby files
 .cache/
@@ -679,6 +683,7 @@ zsdoc/data
 /coverage
 /libpeerconnection.log
 /typings
+*.pem
 
 
 
