@@ -1,0 +1,4 @@
+{
+  "extends": "@r2d2/typescript-config/base.json"
+}
+

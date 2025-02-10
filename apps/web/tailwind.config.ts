@@ -1,0 +1,1 @@
+export * from "@r2d2/ui/tailwind.config";
