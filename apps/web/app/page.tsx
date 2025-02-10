@@ -1,4 +1,4 @@
-import { Button } from "@workspace/ui/components/button"
+import { Button } from "@r2d2/ui/components/button"
 
 export default function Page() {
   return (

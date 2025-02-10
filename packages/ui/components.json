@@ -11,10 +11,10 @@
   },
   "iconLibrary": "lucide",
   "aliases": {
-    "components": "@workspace/ui/components",
-    "utils": "@workspace/ui/lib/utils",
-    "hooks": "@workspace/ui/hooks",
-    "lib": "@workspace/ui/lib",
-    "ui": "@workspace/ui/components"
+    "components": "@r2d2/ui/components",
+    "utils": "@r2d2/ui/lib/utils",
+    "hooks": "@r2d2/ui/hooks",
+    "lib": "@r2d2/ui/lib",
+    "ui": "@r2d2/ui/components"
   }
 }
